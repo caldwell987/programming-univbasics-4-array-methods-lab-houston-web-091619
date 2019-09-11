@@ -6,22 +6,26 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
 end
 
 def using_sort(array)
-famous_cats = ["lil' bub", "grumpy cat", "maru"]
-famous_cats.sort
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.sort
 end
 
 def using_reverse(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.
 end
 
 def using_first(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.
 end
 
 def using_last(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.
 end
 
 def using_size(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.
 end
